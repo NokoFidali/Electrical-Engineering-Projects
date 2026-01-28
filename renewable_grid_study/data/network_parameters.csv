@@ -1,0 +1,11 @@
+Parameter,Value,Unit
+Grid_Voltage,11,kV
+Feeder_Length,5,km
+Line_Resistance,0.3,Ohm/km
+Line_Reactance,0.4,Ohm/km
+PV_Plant_Power,5,MW
+PV_Power_Factor,0.98,pu
+Transformer_Rating,6,MVA
+Transformer_Impedance,6,%
+Load_Power,3,MW
+Load_Power_Factor,0.95,pu
